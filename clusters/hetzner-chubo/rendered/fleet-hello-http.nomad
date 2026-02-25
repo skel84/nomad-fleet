@@ -37,7 +37,7 @@ job "fleet-hello-http" {
           "-listen",
           ":18080",
           "-text",
-          "Hello from GitOps revision 1",
+          "Hello from GitOps revision 2",
         ]
       }
 
